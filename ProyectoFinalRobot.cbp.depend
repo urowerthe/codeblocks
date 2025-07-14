@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1752350258 source:c:\users\yatsen\onedrive\escritorio\proyecto final robot movimiento\main.cpp
+	<GL/glut.h>
+	<iostream>
+	<math.h>
+	<cstdlib>
+	<ctime>
+
